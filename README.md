@@ -5,7 +5,7 @@ Example repository to create an environment with course materials in Bash.
 
 ## Try it on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plasmabio/template-bash/master?urlpath=%2Flab/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/phaustin/bash_test/master?urlpath=%2Flab/)
 
 
 ## Structure of the repo
